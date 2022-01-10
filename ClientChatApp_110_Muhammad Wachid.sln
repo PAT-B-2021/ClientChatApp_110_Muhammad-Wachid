@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientChatApp_110_Muhammad Wachid", "ClientChatApp_110_Muhammad Wachid\ClientChatApp_110_Muhammad Wachid.csproj", "{93344D3F-C0AD-44EE-B9DF-A24FC328CC2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93344D3F-C0AD-44EE-B9DF-A24FC328CC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93344D3F-C0AD-44EE-B9DF-A24FC328CC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93344D3F-C0AD-44EE-B9DF-A24FC328CC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93344D3F-C0AD-44EE-B9DF-A24FC328CC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F2BF20B-C89F-437C-B5B0-6D1706C6539D}
+	EndGlobalSection
+EndGlobal
